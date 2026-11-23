@@ -1,0 +1,10 @@
+# CMake output and generated build directories.
+/build/
+/cmake-build-*/
+
+# Visual Studio and Windows IDE-generated files.
+/.vs/
+/Debug/
+/Release/
+*.user
+*.suo
